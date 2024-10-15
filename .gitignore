@@ -1,0 +1,7 @@
+*
+!.gitignore
+!index.html
+!assets/
+!favicon.png
+!manifest.json
+!version.json
